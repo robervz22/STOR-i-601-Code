@@ -1,4 +1,4 @@
-# STOR-i-601-Code
+# STOR-i-601-RTI-Code
 
 - `Lehman_Brothers_Open_Close_Prices.csv`: Data retrieved from https://finance.yahoo.com/quote/LEHKQ/history/?period1=1167609600&period2=1222819200&guccounter=1
 
